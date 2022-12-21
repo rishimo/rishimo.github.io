@@ -1,5 +1,5 @@
-title: "Osprey Delight Demo"
-baseURL: "https://example.com"
+title: "About Rishi"
+baseURL: "rishimo.github.io"
 languageCode: "en-US"
 theme: "github.com/kdevo/osprey-delight/v5"
 tags: ["personal", "homepage", "portfolio"]
@@ -31,8 +31,8 @@ Params:
   logoSmall: "favicon.png"
   
   # background can optionally be specified as an image layer behind logoBig at the top of the page (parallax effect).
-  background: "background.jpg"
-  
+  background: 'test.png'
+
   # opengraphImage specifies the image that is shown when previewing the site in a messenger or Google Search.
   opengraphImage: "/images/osprey-delight.png"
 
@@ -60,7 +60,7 @@ Params:
   copyright: true
 
   # credit to the theme. If you want to support the theme by please leave this in, it's kept very tiny and short.
-  # credit: true
+  credit: true
 
 ## Social links in footer:
 ##   The type specifies the icon to use. For more information, see: 
@@ -69,9 +69,9 @@ Params:
   # - type: twitter # references the icon to use
   #   url: ""
   # - type: linkedin 
-  #   url: ""
+  #   url: "https://linkedin.com/mohan-rishi"
   # - type: github
-  #   url: "https://github.com/hugo-mods/"
+  #   url: "https://github.com/rishimo/"
   # - type: heart
   #   url: "https://github.com/sponsors/kdevo"
   # - type: stackoverflow  
@@ -115,20 +115,20 @@ Params:
       resizeLQIP: "256x"
 
   # Advanced configuration for lazyimg module (comment out if needed):
-  # lazyimg:
-  #   resizer: auto
-  #   renderer: lqip-webp
+  lazyimg:
+    resizer: auto
+    renderer: lqip-webp
 
-  #   # Resizer options:
-  #   lqipSize: "120x Gaussian"
-  #   maxSize: "1920x"
-  #   responsiveSizes: ["320x", "640x", "768x", "1024x", "1366x", "1600x", "1920x"]
-  #   resizeOptions: "Lanczos q95"
+    # Resizer options:
+    lqipSize: "120x Gaussian"
+    maxSize: "1920x"
+    responsiveSizes: ["320x", "640x", "768x", "1024x", "1366x", "1600x", "1920x"]
+    resizeOptions: "Lanczos q95"
 
-  #   # Renderer options:
-  #   #class: ""
-  #   #alt: ""
-  #   noscript: true
+    # Renderer options:
+    #class: ""
+    #alt: ""
+    noscript: true
       
 
 ## Menu items are automatically added to navbar.

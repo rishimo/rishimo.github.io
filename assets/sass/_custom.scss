@@ -1,3 +1,7 @@
 
 // Syntax-highlighting:
-@import "solarized"
+@import "solarized";
+
+body {
+    background: linear-gradient(135deg, #09e485 0%,#0291e3 100%) !important;
+}
