@@ -1,6 +1,6 @@
 # rishimo.github.io
 
-A repository for my personal website, available at [rishimo.github.io](rishimo.github.io).
+A repository for my personal website, available at [rishimo.github.io](https://rishimo.github.io).
 
 Although there's probably nothing here right now, a short todo list includes:
 
