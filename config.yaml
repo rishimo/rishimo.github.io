@@ -1,7 +1,9 @@
 baseURL: "https://rishimo.github.io"
 languageCode: "en-us"
-title: "Rishi Mohan"
-theme: hugo-profile
+title: "About Rishi"
+theme: 
+  - hugo-profile
+  - hugo-shortcode-gallery
 
 outputs:
   home:
@@ -100,7 +102,7 @@ params:
   navbar:
     align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
     # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
-    brandName: "Rishi Mohan" # Brand name for the brand | default is the title variable
+    brandName: "Hi there!" # Brand name for the brand | default is the title variable
     disableSearch: true
     
     menus:
