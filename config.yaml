@@ -315,7 +315,7 @@ params:
       - title: STAT447 final project
         content: |
           A team-based deep-dive analysis and series of visualizations on the relationship between adult obesity rates and heart disease mortality rates in the contiguous 48 states, using data from the CDC. 
-          Choropleth visualizations and data wrangling by me, using the R statistical programming language via RStudio & GitHub.
+          I developed the choropleth maps and the associated data wrangling for the project, using the R statistical programming language via RStudio & GitHub for collaboration.
         image: /projects/STAT447.svg
         featured:
           name: Our report

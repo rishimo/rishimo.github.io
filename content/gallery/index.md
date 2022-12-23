@@ -1,7 +1,7 @@
 ---
 title: "Photo Gallery"
 draft: false
-description: "A collection of some of my favorite photos :)" 
+description: "This is a brief collection of some of my favorite shots over the last few years. These photos are currently in no particular order." 
 date: 2022-12-22
 layout: 'gallery'   
 ---
