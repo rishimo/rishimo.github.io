@@ -120,7 +120,7 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Rishi."
-    subtitle: "I am an Industrial Engineering student,"
+    subtitle: "I am an engineer and data scientist,"
     content: | 
       and I'm passionate about *__data science__*, *__photography__*, and *__making__* things.   
       I'm always looking for new ways to apply my technical skills and creativity to solve problems.
@@ -148,9 +148,9 @@ params:
     title: "About Me"
     image: "/images/rishi_isc.png"
     content: |-
-      I am a senior studying Industrial Engineering at the [University of Illinois Urbana-Champaign](https://illinois.edu). I work with the [Illini Solar Car](https://illinisolarcar.com) team extensively on campus. 
-      I also work for the [Siebel Center for Design](https://designcenter.illinois.edu) in the Shop makerspace, where I work on a wide array of projects and teach students on the usage of tools including a waterjet, large format printer, laser cutters, woodshop equipment, and more.
-      I have a minor in Statistics, and am looking to enter a graduate program in Data Science with a focus on decision analysis and visualization after completing my bachelor's.   
+      I am currently a Master's in Data Science student at the [University of San Francisco](usfca.edu). I completed my bachelor's degree in Industrial Engineering from the [University of Illinois](illinois.edu) in 2023.
+      While at the University of Illinois, I worked a lot with the [Illini Solar Car](illinisolarcar.com) team, and with the [Siebel Center for Design](designcenter.illinois.edu) makerspace team.
+
     skills:
       enable: true
       title: "Here are some things I have experience with."
@@ -158,8 +158,6 @@ params:
         - "Python"
         - "R"
         - "SQL"
-        - "Git"
-        - "Markdown"
         - "Autodesk Fusion360"
         - "Autodesk Inventor"
         - "Siemens NX"
@@ -189,7 +187,7 @@ params:
       - job: "Alumni Coordinator"
         company: "Illini Solar Car"
         companyUrl: "https://illinisolarcar.com"
-        date: "Aug 2019 - present"
+        date: "Aug 2019 - May 2023"
         featuredLink:
           enable: true
           name: "Learn about us!"
@@ -202,7 +200,7 @@ params:
       - job: "Shop Supervisor"
         company: "Siebel Center for Design"
         companyUrl: "https://designcenter.illinois.edu"
-        date: "Jan 2022 - present"
+        date: "Jan 2022 - May 2023"
         featuredLink:
           enable: true
           name: "The Shop"
@@ -211,7 +209,7 @@ params:
           enable: false
           content: 
         content: |
-          I am currently a supervisor in the Shop makerspace at SCD. I help develop policy for the space, lead teams of 2-10 staff, and oversee open-hours operations. I train staff and guests on the operation of industry-standard prototyping & manufacturing equipment including a waterjet cutter, large format printer, laser cutters, and a full woodshop.
+          I worked as a student supervisor in the Shop makerspace at SCD. I helped develop policy for the space, led teams of 2-10 staff, and oversaw open-hours operations. I trained staff and guests on the operation of industry-standard prototyping & manufacturing equipment including a waterjet cutter, large format printer, laser cutters, and a full woodshop.
 
       
       - job: "Student Manager"
@@ -297,9 +295,9 @@ params:
           Implementation, maintenance, and administration of VPS-based Jira instance for team of 200+.
           Using DigitalOcean cloud infrastructure, I developed a Jira instance for the Illini Solar Car team, and created trainings & workshops to run with group leads and team members ranging from the electrical group to the business group.
         image: /projects/JIRA.svg
-        featured:
-          name: Live!
-          link: https://jira.illinisolarcar.com
+        #featured:
+        # name: Live!
+        # link: https://jira.illinisolarcar.com
         badges:
           - "Networking"
           - "Scripting"
