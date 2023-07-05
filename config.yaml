@@ -120,9 +120,9 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Rishi."
-    subtitle: "I am an engineer and data scientist,"
+    subtitle: "I am a data science student,"
     content: | 
-      and I'm passionate about *__data science__*, *__photography__*, and *__making__* things.   
+      and I'm passionate about *__engineering__*, *__photography__*, and *__making__* things.   
       I'm always looking for new ways to apply my technical skills and creativity to solve problems.
 
     image: '/images/rishi_lofi_outline_mini.svg'
