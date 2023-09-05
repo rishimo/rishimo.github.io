@@ -7,6 +7,8 @@ theme:
 
 googleAnalytics: G-KGECC6G1HV
 
+timeout: 60000
+
 outputs:
   home:
     - "HTML"

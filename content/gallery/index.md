@@ -2,7 +2,7 @@
 title: "Photo Gallery"
 draft: false
 description: "This is a brief collection of some of my favorite shots over the last few years. These photos are currently in no particular order." 
-date: 2022-12-22
+date: 2023-09-04
 layout: 'gallery'   
 ---
 
