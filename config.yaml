@@ -149,29 +149,28 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/rishi_isc.png"
+    image: "/images/mohan_ocean_iso.png"
     content: |-
-      I am currently a Master's in Data Science student at the [University of San Francisco](usfca.edu). I completed my bachelor's degree in Industrial Engineering from the [University of Illinois](illinois.edu) in 2023.
-      While at the University of Illinois, I worked a lot with the [Illini Solar Car](illinisolarcar.com) team, and with the [Siebel Center for Design](designcenter.illinois.edu) makerspace team.
+      I am currently a Master's in Data Science student at the [University of San Francisco](usfca.edu), working for [Metaphor Data](https://metaphor.io/) as a Machine Learning Engineer. 
+      I did my bachelor's in industrial engineering at the [University of Illinois](https://grainger.illinois.edu), where I worked a lot with the [Illini Solar Car](https://illinisolarcar.com) team. ILL!
 
     skills:
       enable: true
       title: "Here are some things I have experience with."
       items:
         - "Python"
+        - "Machine learning"
+        - "Statistical modeling"
+        - "Data analysis"
         - "R"
         - "SQL"
-        - "Autodesk Fusion360"
-        - "Autodesk Inventor"
-        - "Siemens NX"
         - "Adobe Creative Suite"
-        - "A/V Production"
         - "Prototyping & Manufacturing"
 
 
   # Experience
   experience:
-    enable: true
+    enable: false
     # title: "Custom Name"
     
     items:
@@ -197,8 +196,8 @@ params:
           url: "https://illinisolarcar.com"
         info:
           enable: false
-          content: 
-        content: "I currently serve as the team's Alumni Coordinator, helping make major operational and engineering decisions to further the design and racing of our next vehicle. I previously served as the Director of Operations (2021-2022) and Media Group Lead (2020-2021)."
+          content: |
+          I served as the team's Alumni Coordinator, helping make major operational and engineering decisions to further the design and racing of our next vehicle. I previously served as the Director of Operations (2021-2022) and Media Group Lead (2020-2021).
 
       - job: "Shop Supervisor"
         company: "Siebel Center for Design"
@@ -290,7 +289,7 @@ params:
 
   # projects
   projects:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
       - title: Jira implementation
