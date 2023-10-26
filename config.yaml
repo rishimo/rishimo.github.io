@@ -125,7 +125,7 @@ params:
     title: "Rishi."
     subtitle: "I am a data science student,"
     content: | 
-      and I'm passionate about *__engineering__*, *__photography__*, and *__making__* things.   
+      and I'm passionate about ***engineering***, ***photography***, and ***making*** things.   
       I'm always looking for new ways to apply my technical skills and creativity to solve problems.
 
     image: '/images/rishi_lofi_outline_mini.svg'
@@ -151,7 +151,8 @@ params:
     title: "About Me"
     image: "/images/mohan_ocean_iso.png"
     content: "I am currently a Master's in Data Science at the [University of San Francisco](https://usfca.edu), working for [Metaphor Data](https://metaphor.io/) as a Machine Learning Engineer. 
-      I did my bachelor's in industrial engineering at the [University of Illinois](https://illinois.edu), where I worked a lot with the [Illini Solar Car](https://illinisolarcar.com) team. ILL!"
+      I did my bachelor's in industrial engineering at the [University of Illinois](https://illinois.edu), where I worked a lot with the [Illini Solar Car](https://illinisolarcar.com) team. **ILL!**
+      "
 
     skills:
       enable: true
@@ -180,7 +181,7 @@ params:
           enable: false
           url: "https://example.com"
         info:
-          enable: false
+          enable: true
           content: "I'm working on integrating and indexing client resources into Metaphor's search functionality, allowing us to provide improved results and a better search experience for users."
 
       - job: "Operations Management Intern"
@@ -191,7 +192,7 @@ params:
           enable: false
           url: "https://example.com"
         info:
-          enable: false
+          enable: true
           content: "I conducted data-driven cycle time analysis in a manufacturing plant, utilizing multiple linear regression modeling to forecast production output and optimize operating efficiencies for Eaton's Vehicle Group."
 
       - job: "Alumni Coordinator"
@@ -203,7 +204,7 @@ params:
           name: "Learn about the team"
           url: "https://illinisolarcar.com"
         info:
-          enable: false
+          enable: true
           content: "I served as the team's Alumni Coordinator, helping make major operational and engineering decisions to further the design and racing of our next vehicle. I previously served as the Director of Operations (2021-2022) and Media Group Lead (2020-2021)."
 
       - job: "Shop Supervisor"
@@ -215,7 +216,7 @@ params:
           name: "The Shop"
           url: "https://designcenter.illinois.edu/thecenter/theshop"
         info:
-          enable: false
+          enable: true
           content: "I worked as a student supervisor in the Shop makerspace at SCD. I helped develop policy for the space, led teams of 2-10 staff, and oversaw open-hours operations."
       
   # Education
