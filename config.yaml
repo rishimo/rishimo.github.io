@@ -123,8 +123,8 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Rishi."
-    subtitle: "I am a data science student,"
-    content: "and I'm passionate about ***engineering***, ***photography***, and ***making*** things.   
+    subtitle: "I am a data scientist,"
+    content: "and I'm passionate about engineering, photography, and making things - in the data world and the real one.  
       I'm always looking for new ways to apply my technical skills and creativity to solve problems."
       
 
@@ -150,7 +150,7 @@ params:
     enable: true
     title: "About Me"
     image: "/images/mohan_ocean_iso.png"
-    content: "I am currently a Master's in Data Science at the [University of San Francisco](https://usfca.edu), working for [Metaphor Data](https://metaphor.io/) as a Machine Learning Engineer. 
+    content: "I am currently a Master's in Data Science student at the [University of San Francisco](https://usfca.edu), interning for [Metaphor Data](https://metaphor.io/) as a Machine Learning Engineer. 
       I did my bachelor's in Industrial Engineering at the [University of Illinois](https://illinois.edu), where I worked a lot with the [Illini Solar Car](https://illinisolarcar.com) team. **ILL!**
       "
 
@@ -160,6 +160,7 @@ params:
       items:
         - "Python"
         - "Machine learning"
+        - "Deep learning"
         - "Statistical modeling"
         - "Data analysis"
         - "R"
@@ -180,9 +181,7 @@ params:
         featuredLink:
           enable: false
           url: "https://example.com"
-        info:
-          enable: false # these are stupid tooltip things
-          content: "I'm working on integrating and indexing client resources into Metaphor's search functionality, allowing us to provide improved results and a better search experience for users."
+        content: "I'm working on integrating and indexing client resources into Metaphor's search functionality, allowing us to provide improved results and a better search experience for users."
 
       - job: "Operations Management Intern"
         company: "Eaton"
@@ -191,8 +190,6 @@ params:
         featuredLink:
           enable: false
           url: "https://example.com"
-        info:
-          enable: false
         content: "I conducted data-driven cycle time analysis in a manufacturing plant, utilizing multiple linear regression modeling to forecast production output and optimize operating efficiencies for Eaton's Vehicle Group."
 
       - job: "Alumni Coordinator"
@@ -203,8 +200,6 @@ params:
           enable: false
           name: "Learn about the team"
           url: "https://illinisolarcar.com"
-        info:
-          enable: false
         content: "I served as the team's Alumni Coordinator, helping make major operational and engineering decisions to further the design and racing of our next vehicle. I previously served as the Director of Operations (2021-2022) and Media Group Lead (2020-2021)."
 
       - job: "Shop Supervisor"
@@ -215,8 +210,6 @@ params:
           enable: false
           name: "The Shop"
           url: "https://designcenter.illinois.edu/thecenter/theshop"
-        info:
-          enable: false
         content: "I worked as a student supervisor in the Shop makerspace at SCD. I helped develop policy for the space, led teams of 2-10 staff, and oversaw open-hours operations."
       
   # Education
