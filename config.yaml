@@ -150,7 +150,7 @@ params:
     enable: true
     title: "About Me"
     image: "/images/mohan_ocean_iso.png"
-    content: "I am currently a Master's in Data Science student at the [University of San Francisco](https://usfca.edu), interning for [Metaphor Data](https://metaphor.io/) as a Machine Learning Engineer. 
+    content: "I am currently a Master's in Data Science student at the [University of San Francisco](https://usfca.edu), working for [Metaphor Data](https://metaphor.io/) as a Machine Learning Engineer. 
       I did my bachelor's in Industrial Engineering at the [University of Illinois](https://illinois.edu), where I worked a lot with the [Illini Solar Car](https://illinisolarcar.com) team. **ILL!**
       "
 
